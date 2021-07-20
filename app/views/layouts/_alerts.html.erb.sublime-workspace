@@ -1,0 +1,279 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"white",
+				"whiterussian"
+			],
+			[
+				"grid-template",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"grid-r",
+				"grid-row-gap\tproperty"
+			],
+			[
+				"grid-column",
+				"grid-column-gap\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-rows\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/railsfriends/friends/app/views/friends/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAPHAgaWQ9Im5vdGljZSI+PCU9IG5vdGljZSAlPjwvcD4",
+					"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/railsfriends/friends/app/views/friends/show.html.erb",
+		"/C/railsfriends/friends/app/views/layouts/application.html.erb",
+		"/C/railsfriends/friends/app/views/layouts/_alerts.html.erb",
+		"/C/railsfriends/friends/app/views/friends/new.html.erb",
+		"/C/railsfriends/friends/app/views/friends/edit.html.erb",
+		"/C/railsfriends/friends/app/views/friends/index.html.erb",
+		"/C/railsfriends/friends/app/views/friends/_form.html.erb",
+		"/C/railsfriends/friends/app/views/home/_header.html.erb",
+		"/C/railsfriends/friends/config/routes.rb",
+		"/C/railsfriends/friends/app/controllers/home_controller.rb",
+		"/C/railsfriends/friends/app/views/home/about.html.erb",
+		"/C/railsfriends/friends/db/schema.rb",
+		"/C/railsfriends/friends/app/views/home/index.html.erb",
+		"/C/railsfriends/friends/Gemfile",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/style.css",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/jokes.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/index.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/Team/team.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.pinacolada.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.strawberry.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.mojito.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.longisland.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.whiterussian.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/drinks.darkandstormy.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/games.html",
+		"/C/Users/Mikke/OneDrive/Skrivebord/Coding/Projekter/Gutteside/team.html",
+		"/C/Users/Mikke/AppData/Roaming/Sublime Text 3/Packages/User/index.html",
+		"/C/Users/Mikke/AppData/Roaming/Sublime Text 3/Packages/User/Chrome.sublime-build"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/railsfriends/friends/app/views/friends/index.html.erb",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Chrome.sublime-build",
+	"project": "_alerts.html.erb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
